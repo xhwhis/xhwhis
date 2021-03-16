@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![lws597's GitHub stats](https://github-readme-stats.vercel.app/api?username=lws597)](https://github.com/lws597/github-readme-stats)
+
 <!--
 **lws597/lws597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
