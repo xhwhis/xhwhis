@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![lws597's GitHub stats](https://github-readme-stats.vercel.app/api?username=lws597&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lws597&layout=compact)
+![lws597's GitHub stats](https://github-readme-stats.vercel.app/api?username=lws597&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lws597&layout=compact&theme=dracula)
 
 <!--
 **lws597/lws597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
