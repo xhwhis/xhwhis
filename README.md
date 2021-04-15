@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![lws597's GitHub stats](https://github-readme-stats.vercel.app/api?username=lws597&show_icons=true&include_all_commits=true&theme=dracula&hide=prs,issues,contribs)
+![lws597's GitHub stats](https://github-readme-stats.vercel.app/api?username=lws597&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lws597&layout=compact&theme=dracula&hide=vim%20script)
 
 <!--
