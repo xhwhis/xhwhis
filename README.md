@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+##𝗜'𝗺 [lws](https://github.com/lws597)!
+- 👉 This is my Blog: https://lwscode.cn
+- 📫 How to reach me: lwscode@163.com
+
 ![lws597's GitHub stats](https://github-readme-stats.vercel.app/api?username=lws597&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lws597&layout=compact&theme=dracula&hide=vim%20script)
 
