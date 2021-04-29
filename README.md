@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 𝗜'𝗺 [lws](https://github.com/lws597)!
-- 👉 This is my Blog: https://lwscode.cn
+- 👉 This is my Blog: https://lwscode.com
 - 📫 How to reach me: lwscode@163.com
 
 ![lws597's GitHub stats](https://github-readme-stats.vercel.app/api?username=lws597&show_icons=true&theme=dracula)
