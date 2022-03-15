@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-## 𝗜'𝗺 [lws](https://github.com/lws597)!
+## 𝗜'𝗺 [Whis](https://github.com/xhwhis)!
 - 👉 This is my Blog: https://lwscode.com
 - 📫 How to reach me: lwscode@163.com
 
-![lws597's GitHub stats](https://github-readme-stats.vercel.app/api?username=lws597&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lws597&layout=compact&theme=dracula&hide=vim%20script)
+![Whis's GitHub stats](https://github-readme-stats.vercel.app/api?username=xhwhis&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhwhis&layout=compact&theme=dracula&hide=vim%20script)
 
 <!--
-**lws597/lws597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**xhwhis/xhwhis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
