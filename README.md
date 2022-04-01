@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## 𝗜'𝗺 [xhwhis](https://github.com/xhwhis)!
+## 𝗜'𝗺 [Whis Liao](https://github.com/xhwhis)!
 - 👉 This is my Blog: https://xhwhis.com
 - 📫 How to reach me: 0@whis.me
 
