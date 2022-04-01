@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-## 𝗜'𝗺 [Whis](https://github.com/xhwhis)!
-- 👉 This is my Blog: https://whis.me
+## 𝗜'𝗺 [xhwhis](https://github.com/xhwhis)!
+- 👉 This is my Blog: https://xhwhis.com
 - 📫 How to reach me: 0@whis.me
 
 ![Whis's GitHub stats](https://github-readme-stats.vercel.app/api?username=xhwhis&show_icons=true&theme=dracula)
