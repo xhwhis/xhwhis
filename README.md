@@ -2,7 +2,7 @@
 
 ## 𝗜'𝗺 [Whis Liao](https://github.com/xhwhis)!
 - 👉 This is my Blog: https://xhwhis.com
-- 📫 How to reach me: 0@whis.me
+- 📫 How to reach me: hi@whis.me
 
 ![Whis's GitHub stats](https://github-readme-stats.vercel.app/api?username=xhwhis&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xhwhis&layout=compact&theme=dracula&hide=vim%20script)
